@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Teaching
 
 - [Project 1 Title](/Project_1)
 - [Project 2 Title](http://example.com/)
